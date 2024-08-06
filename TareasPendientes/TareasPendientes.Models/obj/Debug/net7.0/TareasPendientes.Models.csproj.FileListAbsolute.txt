@@ -1,0 +1,12 @@
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\bin\Debug\net7.0\TareasPendientes.Models.deps.json
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\bin\Debug\net7.0\TareasPendientes.Models.dll
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\bin\Debug\net7.0\TareasPendientes.Models.pdb
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\obj\Debug\net7.0\TareasPendientes.Models.csproj.AssemblyReference.cache
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\obj\Debug\net7.0\TareasPendientes.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\obj\Debug\net7.0\TareasPendientes.Models.AssemblyInfoInputs.cache
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\obj\Debug\net7.0\TareasPendientes.Models.AssemblyInfo.cs
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\obj\Debug\net7.0\TareasPendientes.Models.csproj.CoreCompileInputs.cache
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\obj\Debug\net7.0\TareasPendientes.Models.dll
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\obj\Debug\net7.0\refint\TareasPendientes.Models.dll
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\obj\Debug\net7.0\TareasPendientes.Models.pdb
+C:\Users\fersl\Desktop\FERNANDO_REYES\TareasPendientes\TareasPendientes.Models\obj\Debug\net7.0\ref\TareasPendientes.Models.dll
